@@ -245,6 +245,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ### Mexico
 
 ### Europe
+##### Ana Cidre
+- [@anacidre_](http://twitter.com/anacidre_)
+- [GalsTech](https://www.meetup.com/GalsTech), Galicia, Spain
+- Group Focus - Front End Development, Diversity, JavaScript, Mentoring
+- Location - Pontevedra, Galicia, Spain
 
 ### India
 
